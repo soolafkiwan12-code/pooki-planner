@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PookiPlanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/matcha_primary</item>
+        <item name="colorPrimaryDark">@color/matcha_dark</item>
+        <item name="colorAccent">@color/strawberry</item>
+        <item name="colorSurface">@color/cream_card</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/cream_bg</item>
+        <item name="android:colorBackground">@color/cream_bg</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:statusBarColor">@color/matcha_dark</item>
+        <item name="android:navigationBarColor">@color/cream_bg</item>
+        <item name="colorControlActivated">@color/matcha_primary</item>
+        <item name="colorOutline">@color/matcha_light</item>
+    </style>
+    <style name="Theme.PookiPlanner" parent="Base.Theme.PookiPlanner" />
+    <style name="Theme.PookiPlanner.Splash" parent="Theme.PookiPlanner">
+        <item name="android:windowBackground">@color/cream_bg</item>
+    </style>
+    <style name="PookiButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/matcha_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+    <style name="PookiButton.Strawberry" parent="PookiButton">
+        <item name="backgroundTint">@color/strawberry</item>
+    </style>
+    <style name="PookiButton.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="strokeColor">@color/matcha_primary</item>
+        <item name="android:textColor">@color/matcha_primary</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+</resources>

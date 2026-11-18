@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pooki Planner</string>
+    <string name="tagline">Plan. Focus. Study.</string>
+    <string name="login_to_study">Login to Study</string>
+    <string name="sign_up_title">Create Account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="no_account">Need an account?</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="link_sign_up">Sign up</string>
+    <string name="link_login">Log in</string>
+    <string name="continue_guest">Continue As Guest</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="continue_apple">Continue with Apple</string>
+    <string name="apple_sign_in_title">Sign in with Apple</string>
+    <string name="apple_sign_in_message">Enter your Apple ID (iCloud) email to continue</string>
+    <string name="signed_in_google">Signed in with Google</string>
+    <string name="signed_in_apple">Signed in with Apple</string>
+    <string name="signed_in_guest">Continuing as guest</string>
+    <string name="google_sign_in_failed">Google sign-in failed</string>
+    <string name="or_divider">or</string>
+
+    <string name="profile_setup_title">Complete Your Profile</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_age">Age</string>
+    <string name="education_level">Education Level</string>
+    <string name="school">School</string>
+    <string name="university">University</string>
+    <string name="hint_university_name">University Name</string>
+    <string name="governorate">Governorate</string>
+    <string name="irbid">Irbid</string>
+    <string name="amman">Amman</string>
+    <string name="study_preference">How do you like to study?</string>
+    <string name="study_outside">Study outside (Coffee shops)</string>
+    <string name="book_room">Book a study room</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="btn_edit_profile">Edit Profile</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_timer">Timer</string>
+    <string name="nav_rooming">Rooming</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="study_streak">Study Streak: %1$d days</string>
+    <string name="upcoming_booking">Upcoming Booking</string>
+    <string name="upcoming_booking_detail">%1$s\n%2$s at %3$s</string>
+    <string name="no_upcoming_booking">No upcoming bookings</string>
+    <string name="today_tasks">Today\'s Tasks</string>
+    <string name="no_tasks_today">No tasks due today</string>
+    <string name="your_governorate">Your area: %1$s</string>
+
+    <string name="timer_title">Pomodoro Timer</string>
+    <string name="focus_mode">Focus</string>
+    <string name="break_mode">Break</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_reset">Reset</string>
+    <string name="focus_complete">Focus session complete! Time for a break.</string>
+    <string name="break_complete">Break over! Ready to focus again?</string>
+    <string name="timer_sound_hint">Turn up media volume to hear the timer alarm</string>
+    <string name="focus_duration">25:00</string>
+    <string name="break_duration">05:00</string>
+
+    <string name="rooming_title">Rooming</string>
+    <string name="coffee_houses">Coffee Houses in %1$s</string>
+    <string name="coffee_subtitle">Study-friendly spots in Jordan</string>
+    <string name="btn_book_study_room">Book Study Room</string>
+    <string name="select_governorate">Select Governorate</string>
+    <string name="jordan_only">Available in Irbid &amp; Amman only</string>
+
+    <string name="add_task">Add Task</string>
+    <string name="add_booking">Book Room</string>
+    <string name="hint_task_title">Task Title</string>
+    <string name="hint_task_description">Description (optional)</string>
+    <string name="hint_due_date">Due Date</string>
+    <string name="btn_save_task">Save Task</string>
+    <string name="select_room">Select Room</string>
+    <string name="hint_booking_date">Booking Date</string>
+    <string name="hint_booking_time">Booking Time</string>
+    <string name="btn_save_booking">Confirm Booking</string>
+
+    <string name="capacity_label">Capacity: %1$d</string>
+    <string name="hours_label">Hours: %1$s</string>
+    <string name="status_available">Available</string>
+    <string name="status_booked">Booked</string>
+    <string name="btn_book">Book Now</string>
+    <string name="empty_tasks">No tasks yet. Tap + to add!</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="total_bookings">Total Bookings: %1$d</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="btn_logout">Logout</string>
+    <string name="logout_title">Logout</string>
+    <string name="logout_message">Are you sure you want to logout?</string>
+    <string name="delete_task_title">Delete Task</string>
+    <string name="delete_task_message">Delete this task?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="menu_add_task">Add Task</string>
+    <string name="menu_add_booking">Add Booking</string>
+
+    <string name="err_email">Please enter a valid email</string>
+    <string name="err_password">Password must be at least 6 characters</string>
+    <string name="err_password_match">Passwords do not match</string>
+    <string name="err_login_failed">Invalid email or password</string>
+    <string name="err_email_exists">Email already registered</string>
+    <string name="err_name">Please enter your name</string>
+    <string name="err_age">Please enter a valid age</string>
+    <string name="err_university">Please enter university name</string>
+    <string name="err_governorate">Please select Irbid or Amman</string>
+    <string name="profile_saved">Profile saved!</string>
+    <string name="account_created">Account created successfully</string>
+    <string name="task_saved">Task saved</string>
+    <string name="room_already_booked">Room already booked for this time</string>
+    <string name="booking_reminder">Booked: %1$s on %2$s at %3$s</string>
+    <string name="education_label">Education: %1$s</string>
+    <string name="preference_label">Study style: %1$s</string>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بوكي بلانر</string>
+    <string name="tagline">خطط. ركّز. ادرس.</string>
+    <string name="login_to_study">سجّل دخولك للدراسة</string>
+    <string name="sign_up_title">إنشاء حساب</string>
+    <string name="hint_email">البريد الإلكتروني</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="hint_confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="btn_sign_up">إنشاء حساب</string>
+    <string name="no_account">ما عندك حساب؟</string>
+    <string name="have_account">عندك حساب؟</string>
+    <string name="link_sign_up">سجّل الآن</string>
+    <string name="link_login">سجّل دخول</string>
+    <string name="continue_guest">متابعة كضيف</string>
+    <string name="continue_google">المتابعة مع Google</string>
+    <string name="continue_apple">المتابعة مع Apple</string>
+    <string name="apple_sign_in_title">تسجيل الدخول بـ Apple</string>
+    <string name="apple_sign_in_message">أدخل بريد Apple ID (iCloud) للمتابعة</string>
+    <string name="signed_in_google">تم الدخول عبر Google</string>
+    <string name="signed_in_apple">تم الدخول عبر Apple</string>
+    <string name="signed_in_guest">متابعة كضيف</string>
+    <string name="google_sign_in_failed">فشل تسجيل الدخول بـ Google</string>
+    <string name="or_divider">أو</string>
+
+    <string name="profile_setup_title">أكمل ملفك الشخصي</string>
+    <string name="hint_name">الاسم الكامل</string>
+    <string name="hint_age">العمر</string>
+    <string name="education_level">المستوى التعليمي</string>
+    <string name="school">مدرسة</string>
+    <string name="university">جامعة</string>
+    <string name="hint_university_name">اسم الجامعة</string>
+    <string name="governorate">المحافظة</string>
+    <string name="irbid">إربد</string>
+    <string name="amman">عمان</string>
+    <string name="study_preference">كيف بتحب تدرس؟</string>
+    <string name="study_outside">دراسة برا (كافيهات)</string>
+    <string name="book_room">حجز غرفة دراسة</string>
+    <string name="btn_save_profile">حفظ الملف</string>
+    <string name="btn_edit_profile">تعديل الملف</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_tasks">المهام</string>
+    <string name="nav_timer">المؤقت</string>
+    <string name="nav_rooming">الأماكن</string>
+    <string name="nav_profile">الملف</string>
+
+    <string name="welcome_message">أهلاً، %1$s!</string>
+    <string name="study_streak">سلسلة الدراسة: %1$d أيام</string>
+    <string name="upcoming_booking">الحجز القادم</string>
+    <string name="upcoming_booking_detail">%1$s\n%2$s الساعة %3$s</string>
+    <string name="no_upcoming_booking">ما في حجوزات قادمة</string>
+    <string name="today_tasks">مهام اليوم</string>
+    <string name="no_tasks_today">ما في مهام اليوم</string>
+    <string name="your_governorate">منطقتك: %1$s</string>
+
+    <string name="timer_title">مؤقت بومودورو</string>
+    <string name="focus_mode">تركيز</string>
+    <string name="break_mode">استراحة</string>
+    <string name="btn_start">ابدأ</string>
+    <string name="btn_pause">إيقاف</string>
+    <string name="btn_reset">إعادة</string>
+    <string name="focus_complete">انتهى وقت التركيز! وقت استراحة.</string>
+    <string name="break_complete">انتهت الاستراحة! جاهز للتركيز؟</string>
+    <string name="timer_sound_hint">ارفعي صوت الميديا لتسمعي تنبيه المؤقت</string>
+    <string name="focus_duration">25:00</string>
+    <string name="break_duration">05:00</string>
+
+    <string name="rooming_title">أماكن الدراسة</string>
+    <string name="coffee_houses">كافيهات في %1$s</string>
+    <string name="coffee_subtitle">أماكن دراسة في الأردن</string>
+    <string name="btn_book_study_room">احجز غرفة دراسة</string>
+    <string name="select_governorate">اختر المحافظة</string>
+    <string name="jordan_only">متوفر في إربد وعمان فقط</string>
+
+    <string name="add_task">إضافة مهمة</string>
+    <string name="add_booking">حجز غرفة</string>
+    <string name="hint_task_title">عنوان المهمة</string>
+    <string name="hint_task_description">الوصف (اختياري)</string>
+    <string name="hint_due_date">تاريخ الاستحقاق</string>
+    <string name="btn_save_task">حفظ المهمة</string>
+    <string name="select_room">اختر الغرفة</string>
+    <string name="hint_booking_date">تاريخ الحجز</string>
+    <string name="hint_booking_time">وقت الحجز</string>
+    <string name="btn_save_booking">تأكيد الحجز</string>
+
+    <string name="capacity_label">السعة: %1$d</string>
+    <string name="hours_label">الساعات: %1$s</string>
+    <string name="status_available">متاح</string>
+    <string name="status_booked">محجوز</string>
+    <string name="btn_book">احجز الآن</string>
+    <string name="empty_tasks">ما في مهام. اضغط + لإضافة!</string>
+
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="total_bookings">إجمالي الحجوزات: %1$d</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="lang_english">English</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="btn_logout">تسجيل الخروج</string>
+    <string name="logout_title">تسجيل الخروج</string>
+    <string name="logout_message">متأكد بدك تسجّل خروج؟</string>
+    <string name="delete_task_title">حذف المهمة</string>
+    <string name="delete_task_message">بدك تحذف هالمهمة؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="menu_add_task">إضافة مهمة</string>
+    <string name="menu_add_booking">إضافة حجز</string>
+
+    <string name="err_email">أدخل بريد إلكتروني صحيح</string>
+    <string name="err_password">كلمة المرور 6 أحرف على الأقل</string>
+    <string name="err_password_match">كلمات المرور غير متطابقة</string>
+    <string name="err_login_failed">البريد أو كلمة المرور غلط</string>
+    <string name="err_email_exists">البريد مسجّل مسبقاً</string>
+    <string name="err_name">أدخل اسمك</string>
+    <string name="err_age">أدخل عمر صحيح</string>
+    <string name="err_university">أدخل اسم الجامعة</string>
+    <string name="err_governorate">اختر إربد أو عمان</string>
+    <string name="profile_saved">تم حفظ الملف!</string>
+    <string name="account_created">تم إنشاء الحساب بنجاح</string>
+    <string name="task_saved">تم حفظ المهمة</string>
+    <string name="room_already_booked">الغرفة محجوزة بهالوقت</string>
+    <string name="booking_reminder">تم الحجز: %1$s بتاريخ %2$s الساعة %3$s</string>
+    <string name="education_label">التعليم: %1$s</string>
+    <string name="preference_label">أسلوب الدراسة: %1$s</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Matcha Strawberry — same palette, darker surfaces -->
+    <color name="matcha_primary">#6B9068</color>
+    <color name="matcha_dark">#B8D4B0</color>
+    <color name="matcha_light">#3A4A38</color>
+    <color name="strawberry">#E8A0BF</color>
+    <color name="strawberry_dark">#F0B0C8</color>
+    <color name="cream_bg">#141A13</color>
+    <color name="cream_card">#222B21</color>
+    <color name="text_primary">#E8EDE6</color>
+    <color name="text_secondary">#9FB09B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="status_available">#7A9A78</color>
+    <color name="status_booked">#E8A0BF</color>
+    <color name="timer_focus">#4D7354</color>
+    <color name="timer_break">#B87890</color>
+</resources>
